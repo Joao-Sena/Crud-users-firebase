@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "teste-crud-users": {
+      "hosting": {
+        "crud-curso": [
+          "teste-crud-users"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "teste-crud-users"
+  }
+}
